@@ -1,0 +1,1 @@
+# Reproduce an issue in vitest 4
